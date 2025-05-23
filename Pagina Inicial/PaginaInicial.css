@@ -100,7 +100,7 @@ nav {
 }
 
 .slider {
-  background: url("../img/FundoPage.svg");
+  background: url("../img/FundoPage.png");
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
   overflow: hidden;
 }
